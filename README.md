@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá, eu sou o Thiago de Oliveira 👋
+Estudante de Ciência da computação no 4 semestre.
 
-<!--
-**skaduhs5232/skaduhs5232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
-Here are some ideas to get you started:
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+### Tecnologias usadas
+
+ <div style="display: inline-block"><br />
+         <img align="center" alt="HTML"
+            src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+        <img align="center" alt="CSS"
+            src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+        <img align="center" alt="JavaScript"
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img align="center" alt="Python"
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img align="center" alt="Java"
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </div>
