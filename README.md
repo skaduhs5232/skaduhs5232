@@ -5,7 +5,7 @@ Estudante de Ciência da computação no 4 semestre.
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=tokyonight)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaduhs5232&layout=donut&theme=dark)](https://github.com/KaduLm/github-readme-stats)
 
 
 
