@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago de Oliveira 👋
-Estudante de Ciência da computação no 4 semestre.
+Estudante de Ciência da computação no 6 semestre.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
@@ -25,4 +25,4 @@ Estudante de Ciência da computação no 4 semestre.
   <img align="center" alt="TypeScript"
    src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
 
-    </div>
+    
