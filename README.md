@@ -1,5 +1,5 @@
 ### Olá, eu sou o Thiago de Oliveira 👋
-Estudante de Ciência da computação no 6 semestre.
+Programador e desenvolvedor de software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
