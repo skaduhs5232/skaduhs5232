@@ -1,27 +1,20 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Thiago de Oliveira!
-Programer and software developer.
+Programmer and software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=tokyonight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaduhs5232&layout=donut&theme=dark)](https://github.com/skaduhs5232/github-readme-stats)
-
-
-
-
-
-### Linguagens de Programação que mais ultilizo:
+### Linguagens de Programação que mais utilizo:
 
 <div style="display: flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px; height: 60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 60px; height: 60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 60px; height: 60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 60px; height: 60px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 60px; height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 60px; height: 60px;">
 </div>
 
 ### Contatos
@@ -32,8 +25,6 @@ Programer and software developer.
   <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%25ACD436?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
 
-
-![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
-
-          
-    
+<div style="display: inline-block; margin-left: 20px;">
+  ![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
+</div>
