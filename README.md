@@ -6,16 +6,23 @@ Programmer and software developer.
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=tokyonight)
 
-### Linguagens de Programação que mais utilizo:
-
 <div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 60px; height: 60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 60px; height: 60px;">
+  <div style="margin-right: 20px;">
+    ![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
+  </div>
+  <div>
+    ### Linguagens de Programação que mais utilizo:
+    <div style="display: flex;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px; height: 60px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px; height: 60px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 60px; height: 60px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 60px; height: 60px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 60px; height: 60px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width: 60px; height: 60px;">
+    </div>
+  </div>
 </div>
+
 
 ### Contatos
 
@@ -25,6 +32,4 @@ Programmer and software developer.
   <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%25ACD436?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 </a>
 
-<div style="display: inline-block; margin-left: 20px;">
-  <img loading="lazy" src="https://tenor.com/view/cat-gif-26024704.gif">
-</div>
+
