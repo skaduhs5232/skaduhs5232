@@ -1,5 +1,6 @@
-### Olá, eu sou o Thiago de Oliveira 👋
-Programador e desenvolvedor de software.
+# 👋 Hello! Welcome to my Github profile.
+## My name is Thiago de Oliveira!
+Programer and software developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
@@ -12,20 +13,25 @@ Programador e desenvolvedor de software.
 
 
 
-### Tecnologias usadas
+### Linguagens de Programação que mais ultilizo:
 
  <div style="display: inline-block"><br />
-         <img align="center" alt="HTML"
-            src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" alt="CSS"
-            src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img align="center" alt="JavaScript"
-            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img align="center" alt="Python"
-            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img align="center" alt="Java"
-            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="TypeScript"
-   src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
+### Contatos
+
+<a href="https://instagram.com/thiao_samp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:thiagooliveira1039@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5585996227841" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%25ACD436?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
+
+
+![Snake animation](https://github.com/skaduhs5232/skaduhs5232/blob/output/github-contribution-grid-snake.svg)
+          
     
