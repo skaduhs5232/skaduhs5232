@@ -10,6 +10,7 @@ Programmer and software developer.
   <div style="margin-right: 20px;">
     ![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
   </div>
+  
   <div>
     ### Linguagens de Programação que mais utilizo:
     <div style="display: flex;">
