@@ -33,6 +33,7 @@ Programer and software developer.
 </a>
 
 
-<div class="tenor-gif-embed" data-postid="26024704" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-gif-26024704">Cat GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
+
           
     
