@@ -26,5 +26,5 @@ Programmer and software developer.
 </a>
 
 <div style="display: inline-block; margin-left: 20px;">
-  ![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif)
+  <img loading="lazy" src="https://tenor.com/view/cat-gif-26024704.gif">
 </div>
