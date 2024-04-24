@@ -28,3 +28,5 @@ Meu nome é Thiago de Oliveira, sou programador e desenvolvedor de software.
 <a href="https://api.whatsapp.com/send?phone=5585996227841" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-%25ACD436?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank">
 </a>
+
+![Cat GIF](https://tenor.com/view/cat-gif-26024704.gif?raw=true)
