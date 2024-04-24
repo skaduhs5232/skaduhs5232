@@ -4,6 +4,7 @@ Programador e desenvolvedor de software.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaduhs5232&layout=donut&theme=dark)](https://github.com/KaduLm/github-readme-stats)
 
