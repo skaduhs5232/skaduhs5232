@@ -3,7 +3,7 @@
 I'm Thiago de Oliveira, a passionate software developer and tech enthusiast. I currently work as a Full-Stack Developer. </br>
 Withsome years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-> “Do, or do not. There is no “try” — Yoda
+> <span style="color: green;">“Do, or do not. There is no 'try'.” — Yoda</span>
 
 # 🚀 Expertise
 
