@@ -5,7 +5,7 @@ With a few years of experience in the field, I've had the opportunity to work on
 
 > <span style="color: green;">“Do, or do not. There is no 'try'.” — Yoda</span>
 
-# 🚀 Expertise
+# [![Piplup](https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif)](https://pokemondb.net/pokedex/piplup)   Expertise
 
 Passionate about building seamless and scalable web solutions, I specialize in both front-end and back-end development, merging intuitive user experiences with robust server-side logic. With some years of experience across the full web development stack, I’ve led teams, designed comprehensive system architectures, and ensured top performance in both web applications and APIs.
 
