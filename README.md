@@ -1,4 +1,4 @@
-# 👋 Hi there   [![Altaria](https://img.pokemondb.net/sprites/black-white/anim/normal/altaria.gif)](https://pokemondb.net/pokedex/altaria)
+# [![Altaria](https://img.pokemondb.net/sprites/black-white/anim/normal/altaria.gif)](https://pokemondb.net/pokedex/altaria)  Hi there   
 
 I'm Thiago de Oliveira, a passionate software developer and tech enthusiast. I currently work as a Full-Stack Developer. </br>
 With a few years of experience in the field, I've had the opportunity to work on several interesting projects and explore different technologies.
