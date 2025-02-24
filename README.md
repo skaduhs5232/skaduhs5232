@@ -29,8 +29,9 @@ Throughout my career, I’ve served as a Technical Lead in roles that required b
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skaduhs5232&theme=dracula" />
 </a>
 <a href="https://github.com/skaduhs5232/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&langs_count=8&card_width=320&hide=css&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&langs_count=8&card_width=320&hide=css,scss&theme=dracula" />
 </a>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skduhs5232&icon=8&color=0)](https://visitcount.itsvg.in)
