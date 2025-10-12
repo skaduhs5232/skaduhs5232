@@ -1,105 +1,168 @@
-# Hi there! I'm Thiago de Oliveira [![Altaria](https://img.pokemondb.net/sprites/black-white/anim/normal/altaria.gif)](https://pokemondb.net/pokedex/altaria)
+<div align="center">
 
-Welcome to my GitHub profile! I'm a **passionate Full-Stack Software Developer** and tech enthusiast, dedicated to crafting innovative solutions. With several years of experience in the field, I've had the opportunity to work on challenging projects and explore a diverse range of technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=Thiago%20de%20Oliveira&fontSize=50&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Leader%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&animation=twinkling" />
 
-My passion lies in transforming complex ideas into intuitive and robust web applications, combining an excellent user experience with solid back-end logic.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=2000&color=gradient&customColorList=6,12,18,24&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full-Stack+Software+Engineer;%F0%9F%8E%AF+Technical+Lead+%26+Architect;%F0%9F%92%BB+Python+%7C+TypeScript+%7C+Go+%7C+Java;%E2%9A%A1+Building+Scalable+Solutions;%F0%9F%8C%8A+Data+Science+Enthusiast)](https://git.io/typing-svg)
 
-> <span style="color: green;">“Do, or do not. There is no 'try'.” — Yoda</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiao_samp)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skadush5232)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+## 🌟 About Me
+
+<img src="https://tenor.com/view/cat-gif-26024704.gif" width="340" align="right"  />
+
+Hey there! I'm **Thiago**, a passionate **Full-Stack Software Developer** and **Technical Lead** driven by curiosity and the constant pursuit of improvement. I love designing and building systems that are not only functional but elegant, scalable, and efficient.  
+
+With solid experience in **backend development using Go, Java, TypeScript and Spring Boot**, I specialize in building **microservices**, **RESTful APIs**, and **event-driven architectures** that power reliable cloud-based applications.  
+
+On the frontend side, I enjoy crafting dynamic and intuitive interfaces with **Angular**, always aiming to deliver smooth and engaging user experiences.  
+
+I'm also deeply interested in **AI and Computer Vision**, exploring how technology can perceive and interpret the world visually — from real-time image processing to intelligent automation.  
+
+Throughout my journey, I’ve worked on projects that span from **API integrations and data analytics** to **containerized deployments with Docker and Kubernetes**, leveraging **AWS and GCP** for cloud-native scalability.  
+
+Beyond coding, I value **team collaboration, mentoring**, e **promoting clean code principles**, garantindo que o software cresça de forma sustentável ao longo do tempo.  
+
+> “Great code isn’t just written — it’s designed with purpose and empathy for those who will build upon it.”
 
 ---
 
-## My Expertise [![Piplup](https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif)](https://pokemondb.net/pokedex/piplup)
+## 🛠️ Tech Arsenal
 
-I specialize in **Full-Stack development**, focusing on building scalable and high-performance web solutions. My experience spans from designing attractive user interfaces to implementing complex and efficient back-end logic.
+### 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,java,javascript,go,python,cs,cpp,r,clojure&theme=dark" />
+</p>
 
-Throughout my career, I've served as a **Technical Lead**, balancing in-depth coding expertise with effective team management. I guide projects with a strategic focus, ensuring the delivery of high-quality results, always keeping an eye on application performance, security, and scalability.
+### 🎨 Frontend Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,threejs,html,css,sass,tailwind&theme=dark" />
+</p>
 
-I'm proficient in:
+<p align="center">
+<img height="30" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+<img height="30" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+<img height="30" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+<img height="30" src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" alt="Less" />
+</p>
 
-* **Front-end Development:** Building dynamic and responsive user interfaces.
-* **Back-end Development:** Creating robust APIs and efficient database systems.
-* **System Architecture:** Designing and implementing scalable architectures.
-* **Technical Leadership:** Guiding teams and ensuring development best practices.
+### ⚙️ Backend Technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet&theme=dark" />
+</p>
 
----
+<p align="center">
+<img height="30" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img height="30" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img height="30" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
 
-## My Tech Stack [![Oshawott](https://img.pokemondb.net/sprites/black-white-2/anim/normal/oshawott.gif)](https://pokemondb.net/pokedex/oshawott)
+### 🗄️ Databases & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,docker,kubernetes,aws,gcp&theme=dark" />
+</p>
 
-Here are the primary technologies and tools I use in my daily work:
+### 🔬 Data Science & AI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+<p align="center">
+<img height="30" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img height="30" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-### Front-end Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1B4F83?style=for-the-badge&logo=less&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+### 🔧 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,linux&theme=dark" />
+</p>
 
-### Back-end Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Data Science & Machine Learning
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia-cuda&logoColor=white)
-
-### Productivity & Management Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+<p align="center">
+<img height="30" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img height="30" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img height="30" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+<img height="30" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
 ---
 
-## Connect With Me! [![Phanpy](https://img.pokemondb.net/sprites/black-white/anim/normal/phanpy.gif)](https://pokemondb.net/pokedex/phanpy)
+## 📊 GitHub Analytics
 
-I'd be happy to connect and exchange ideas! You can find me on the following social media platforms:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=50FA7B&text_color=F8F8F2&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=10&hide=css,scss" alt="Top Languages" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiao_samp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skadush5232)
-
----
-
-## GitHub Stats [![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)](https://pokemondb.net/pokedex/mudkip)
-
-Check out some of my GitHub statistics:
-
-<a href="https://github.com/skaduhs5232/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skaduhs5232&theme=dracula" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/skaduhs5232/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&langs_count=8&card_width=320&hide=css,scss&theme=dracula" alt="Top Languages" />
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skaduhs5232&theme=dracula&hide_border=true&background=0D1117&stroke=BD93F9&fire=FF79C6&ring=50FA7B&currStreakLabel=F8F8F2&sideLabels=F8F8F2&dates=6272A4" alt="GitHub Streak" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=skduhs5232&icon=8&color=0)](https://visitcount.itsvg.in)
+<details>
+  <summary><h3>🎯 Visualise Current Goals Diagram</h3></summary>
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Current Goals] --> B[🏗️ Microservices Architecture]
+    A --> C[🤖 AI and Computer Vision]
+    A --> D[☁️ Cloud Native Solutions]
+    A --> E[👥 Technical Leadership]
+    A --> J[⚙️ Fullstack Development]
+
+    %% Microservices Branch
+    B --> F[Event-Driven Systems]
+    B --> K[Go and Java Backends]
+    B --> L[Scalable APIs]
+
+    %% AI / Vision Branch
+    C --> G[Deep Learning Models]
+    C --> M[Object Detection and Tracking]
+    C --> N[Real-time Image Processing]
+
+    %% Cloud Branch
+    D --> H[Kubernetes and Docker]
+    D --> O[Multi-cloud AWS GCP Azure]
+    D --> P[CI/CD Pipelines]
+
+    %% Leadership Branch
+    E --> I[Agile and Mentoring]
+    E --> Q[Code Quality and Reviews]
+
+    %% Fullstack Branch
+    J --> R[Angular Frontends]
+    J --> S[REST and GraphQL Integration]
+
+```
+  </div> 
+</details>
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+**I'm always open to discussing new opportunities, innovative projects, or just having a tech chat over coffee!**
+
+📧 **Email:** your.email@example.com  
+💼 **LinkedIn:** [Thiago de Oliveira](https://www.linkedin.com/in/thiago-de-oliveira-sampaio-0085a8239/)  
+📸 **Instagram:** [@thiao_samp](https://instagram.com/thiao_samp)  
+🐦 **Twitter:** [@skadush5232](https://twitter.com/skadush5232)
+
+---
+
+> *"Do, or do not. There is no 'try'."* — Yoda
+
+⭐ **If you find my work interesting, don't forget to star my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer&animation=twinkling" />
+</div>
+</div>
