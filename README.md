@@ -97,7 +97,7 @@ Beyond coding, I value **team collaboration, mentoring**, e **promoting clean co
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skaduhs5232&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=50FA7B&text_color=F8F8F2&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=10&hide=css,scss" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaduhs5232&layout=compact&theme=dracula&border_radius=10&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&langs_count=10&hide=html,css,scss" alt="Top Languages" />
 </div>
 
 <div align="center">
